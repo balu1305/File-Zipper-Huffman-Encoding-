@@ -10,7 +10,10 @@
 
 **A complete web-based file compression/decompression tool implementing the Huffman Encoding algorithm**
 
-[🚀 Quick Start](#-quick-start) • [📖 How It Works](#-how-huffman-encoding-works) • [🎯 Features](#-key-features) • [🔧 Usage](#-usage-guide) • [📊 Performance](#-performance--statistics)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/balu1305/File-Zipper-Huffman-Encoding-)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://file-zipper-huffman.vercel.app)
+
+[🚀 Quick Start](#-quick-start) • [📖 How It Works](#-how-huffman-encoding-works) • [🎯 Features](#-key-features) • [🔧 Usage](#-usage-guide) • [📊 Performance](#-performance--statistics) • [🌐 Deploy](#-deployment)
 
 ---
 
@@ -498,6 +501,55 @@ Large Files:        >1MB → Memory management
   - Adaptive Huffman coding
   - Canonical Huffman codes
   - Multi-tree compression
+
+## 🌐 Deployment
+
+This project is deployed and live! You can access it at:
+
+### 🚀 **Live Demo**
+**🌟 [https://file-zipper-huffman.vercel.app](https://file-zipper-huffman.vercel.app)**
+
+### 🔧 **Deploy Your Own**
+
+#### Option 1: One-Click Vercel Deploy
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/balu1305/File-Zipper-Huffman-Encoding-)
+
+#### Option 2: Manual Vercel Deploy
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Navigate to project directory
+cd "File Zipper(Huffman Encoding)"
+
+# Deploy to Vercel
+vercel
+
+# Follow the prompts:
+# - Set up and deploy? Yes
+# - Which scope? (Select your account)
+# - Link to existing project? No
+# - Project name: file-zipper-huffman
+# - Directory: ./
+# - Want to override settings? No
+```
+
+#### Option 3: GitHub Integration
+1. Go to [vercel.com](https://vercel.com)
+2. Sign up/Login with GitHub
+3. Click "New Project"
+4. Import your GitHub repository
+5. Deploy automatically!
+
+### 🌍 **Other Deployment Options**
+
+| Platform | Difficulty | Cost | Custom Domain |
+|----------|------------|------|---------------|
+| **🔥 Vercel** | ⭐ Easy | Free | ✅ Yes |
+| **📄 GitHub Pages** | ⭐ Easy | Free | ✅ Yes |
+| **🌐 Netlify** | ⭐ Easy | Free | ✅ Yes |
+| **⚡ Firebase** | ⭐⭐ Medium | Free | ✅ Yes |
+| **☁️ AWS S3** | ⭐⭐⭐ Hard | Paid | ✅ Yes |
 
 ## 🤝 Contributing
 
