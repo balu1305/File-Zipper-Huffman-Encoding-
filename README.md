@@ -528,28 +528,5 @@ We welcome contributions! Here's how you can help:
 
 </div>
 
-## 📄 License
 
-<div align="center">
 
-**This project is open source and available under the [MIT License](LICENSE)**
-
----
-
-### 🌟 Star this project if you found it helpful!
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/file-zipper-huffman?style=social)](https://github.com/yourusername/file-zipper-huffman)
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ for learning Data Structures & Algorithms**
-
-*Perfect for students, educators, and algorithm enthusiasts*
-
-📧 [Contact](mailto:your.email@example.com) • 🐦 [Twitter](https://twitter.com/yourhandle) • 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-
-</div>
