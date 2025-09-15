@@ -1,19 +1,5 @@
 {
   "version": 2,
-  "name": "file-zipper-huffman",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/index.html"
-    }
-  ],
-  "functions": {},
   "headers": [
     {
       "source": "/(.*)",
